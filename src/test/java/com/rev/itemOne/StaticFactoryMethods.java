@@ -4,7 +4,7 @@ import org.junit.Test;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
-public class staticFactoryMethods {
+public class StaticFactoryMethods {
 
   /** Item 1: Consider static factory methods instead of constructors. */
   @Test

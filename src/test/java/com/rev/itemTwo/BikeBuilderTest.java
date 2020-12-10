@@ -4,7 +4,7 @@ import org.junit.Test;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
-public class bikeBuilderTest {
+public class BikeBuilderTest {
 
   public static final String ROAD_BIKE = "Road Bike";
   public static final String MOUNTAIN_BIKE = "Mountain Bike";

@@ -4,7 +4,7 @@ import org.junit.Test;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
-public class singletons {
+public class Singletons {
 
   /** Item 3. Page 17. Enforce the singleton property with a private constructor or an enum type. */
   @Test
